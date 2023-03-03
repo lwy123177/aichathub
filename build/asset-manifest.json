@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aichathub/static/css/main.ec16d8cd.css",
+    "main.js": "/aichathub/static/js/main.71d3c050.js",
+    "index.html": "/aichathub/index.html",
+    "main.ec16d8cd.css.map": "/aichathub/static/css/main.ec16d8cd.css.map",
+    "main.71d3c050.js.map": "/aichathub/static/js/main.71d3c050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec16d8cd.css",
+    "static/js/main.71d3c050.js"
+  ]
+}
